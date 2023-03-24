@@ -1,0 +1,3 @@
+name: ChatCensorPlugin
+version: '${project.version}'
+main: tuxpenguins.chatcensorplugin.ChatCensorPlugin
